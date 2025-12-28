@@ -2,6 +2,7 @@
 ![Bike Rental Analytics Dashboard](Screenshot 2025-12-28 132509.png)
 
 
+
 ## 📊 Project Overview
 
 This project analyzes bike rental performance using transactional data to uncover
