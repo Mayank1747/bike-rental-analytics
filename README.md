@@ -1,4 +1,6 @@
 # Bike Rental Analytics Dashboard 🚲
+![Bike Rental Analytics Dashboard](Screenshot 2025-12-28 132509.png)
+
 
 ## 📊 Project Overview
 
