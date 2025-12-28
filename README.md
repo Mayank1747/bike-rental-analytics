@@ -10,3 +10,16 @@ The dashboard is designed for business stakeholders to quickly understand:
 - Which customer segments drive demand
 - How revenue and profit change over time
 
+## 🛠 Tools & Technologies
+
+- Power BI (Data Modeling, DAX, Dashboarding)
+- MySQL (Data preparation, UNION queries)
+- SQL
+- GitHub (Project versioning)
+
+## 🔍 Key Insights
+
+- Peak revenue occurs between **10–15 hours**
+- **Wednesday and Friday** generate the highest sales
+- **Registered users** contribute the majority of total rides
+- Evening demand drives higher overall profitability
